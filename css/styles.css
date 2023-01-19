@@ -54,7 +54,12 @@ body{
 }
 
 .header-link:hover,
-.header-link:focus{
+.header-link:focus,
+.header-mail:hover,
+.header-mail:focus,
+.header-tel:hover,
+.header-tel:focus
+{
     font-weight: 600;
     font-size: 16px;
     line-height: 1.5;
@@ -63,9 +68,6 @@ body{
     color: #4D5AE5;
 }
 
-
-
-}
 
 .header-address {
 }
@@ -93,7 +95,6 @@ body{
     line-height: calc(24/16);
     letter-spacing: 0.02em;
     color:var(--second-title-color);
-
 }
 
 /*------------------ MAIN------------------- */
