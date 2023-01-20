@@ -154,6 +154,7 @@ body {
     cursor: pointer;
 }
 
+.hero-btn:hover,
 .hero-btn:focus {
     background: #404BBF;
 }
