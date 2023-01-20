@@ -46,16 +46,13 @@ body {
 /*------------------ HEADER------------------- */
 
 .header {
-    
 }
 .header-navigation {
-    
 }
 
 .header-logo {
-    
-
 }
+
 .logo-web {
     font-family: 'Raleway';
     font-style: normal;
@@ -138,6 +135,7 @@ body {
 
 /*------------------ MAIN------------------- */
 .hero {
+    background-color: #2E2F42;
 }
 .hero-title {
     font-weight: 700;
@@ -146,8 +144,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
-    background: #2E2F42;
-}
+   }
 
 .hero-btn {
     font-family: inherit;
